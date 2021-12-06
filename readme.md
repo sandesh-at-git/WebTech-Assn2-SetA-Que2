@@ -1,4 +1,4 @@
-2. Create an html5 page with following specifications
+## 2. Create an html5 page with following specifications
 - a. Title should be about MYCOLLEGE
 - b. Put the windows logo image in the background
 - c. Place your college name at the top of the page in large text followed by address in smaller size
