@@ -12,5 +12,4 @@
 
 ## Solution
 
-[Live Solution](https://sandesh-at-git.github.io/WebTechAssn2-SetA-Q2/)
-
+[Live Solution](https://sandesh-at-git.github.io/WebTech-Assn2-SetA-Que2/)
